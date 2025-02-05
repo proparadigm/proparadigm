@@ -1,4 +1,4 @@
 # Knowledge Led Development Services
-## Learn more -> https://bizofdev.com/
-
+## Product Dev -> https://bizofdev.com/
+## Consulting -> https://theproparadigm.com/
 
